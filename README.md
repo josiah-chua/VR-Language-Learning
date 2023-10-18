@@ -27,7 +27,7 @@ automated.
 ![image](https://github.com/josiah-chua/VR-Language-Learning/assets/81459293/c0010664-d26a-4fcb-b250-fd466164a0d7)
 There are 3 interactable NPCs in the prototype. For each NPC, there are 3 subtasks to complete. A script was created to facilitate the dialogue for the tasks.
  
-Each NPC initiates a subtask by saying a sentence. Users must then respond to the NPC according to the objective. Note that the app allows for dynamic resposes to allow useres to practice sentence formation. The apprporateness of the response will be evaluated using a semantics detection LLM. 
+Each NPC initiates a subtask by saying a sentence. Users must then respond to the NPC according to the objective. Note that the app allows for dynamic resposes to allow users to practice sentence formation. The apprporateness of the response will be evaluated using a semantics detection LLM. 
 
 The conversation is guided by a script, written in Spanish. It contains the NPC’s dialogue for each subtask and a list of possible replies from the user as a reference for evaluation of appropriateness.
 
